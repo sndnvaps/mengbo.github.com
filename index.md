@@ -11,6 +11,7 @@ title: "Meng Bo's Blog"
 
 * [mengbo.github.com](https://github.com/mengbo/mengbo.github.com)：就是这个博客本身，没有别的东西。
 * [install](https://github.com/mengbo/install)：Linux系统安装过程中用到的一些脚本。
+* [telnetdevice](https://github.com/mengbo/telnetdevice)：用Ruby写的针对CISCO/Ruijie/H3C网络设备的telnet工具。
 
 
 ## My Posts
