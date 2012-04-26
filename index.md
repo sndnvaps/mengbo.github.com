@@ -10,6 +10,7 @@ title: "Meng Bo's Blog"
 ## My Projects
 
 * [mengbo.github.com](https://github.com/mengbo/mengbo.github.com)：就是这个博客本身，没有别的东西。
+* [install](https://github.com/mengbo/install)：Linux系统安装过程中用到的一些脚本。
 
 
 ## My Posts
