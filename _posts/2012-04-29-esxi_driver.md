@@ -2,7 +2,7 @@
 layout: post
 title: "ESXi安装M81KR网卡的驱动过程"
 description: ""
-category: 
+category: tech
 tags: [vmware, esxi, cisco, ucs, m81kr, driver]
 ---
 {% include JB/setup %}
