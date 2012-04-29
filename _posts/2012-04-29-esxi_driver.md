@@ -9,7 +9,7 @@ tags: [vmware, esxi, cisco, ucs, m81kr, driver]
 
 配置CISCO UCS时候，CISCO的人提示我们M81KR卡的驱动有[更新](https://my.vmware.com/web/vmware/details/dt_esx50_cisco_enic_21222/dHRAYnRAanBiZHAlZA==)，建议我们升级驱动。
 
-由于我们的vShpere系统已经部署完毕，安装VIB报的时候一直提示一个关于FDM的错误，现在已经不记得具体内容了。经过一番google，发现[KB: 2006034](http://kb.vmware.com/selfservice/microsites/search.do?cmd=displayKC&docType=kc&externalId=2006034&sliceId=1&docTypeID=DT_KB_1_1&dialogID=294834206&stateId=1%200%20297722481)提到的情况和我们遇到的现象比较类似，于是就下决心删除FDM，然后安装驱动。
+由于我们的vShpere系统已经部署完毕，安装VIB包的时候一直提示一个关于FDM的错误，现在已经不记得具体内容了。经过一番google，发现[KB: 2006034](http://kb.vmware.com/selfservice/microsites/search.do?cmd=displayKC&docType=kc&externalId=2006034&sliceId=1&docTypeID=DT_KB_1_1&dialogID=294834206&stateId=1%200%20297722481)提到的情况和我们遇到的现象比较类似，于是就下决心删除FDM，然后安装驱动。
 
 下面ESXi上执行的脚本可以描述问题：
 
